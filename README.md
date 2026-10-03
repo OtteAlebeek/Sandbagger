@@ -4,7 +4,7 @@
 **Ontwikkelaar:** DevOtte
 **Contact:** ottevanalebeek@gmail.com
 
-DevOtte ("wij", "ons") heeft de mobiele applicatie Voetbal Carrière ("de App") gebouwd als een advertentie-ondersteunde app. Deze dienst wordt geleverd door DevOtte en is bedoeld voor gebruik zoals deze is. Dit document informeert gebruikers over ons beleid met betrekking tot het verzamelen, gebruiken en openbaarmaken van persoonlijke informatie indien iemand gebruikmaakt van onze App.
+DevOtte ("wij", "ons") heeft de mobiele applicatie Sandbagger ("de App") gebouwd als een advertentie-ondersteunde app. Deze dienst wordt geleverd door DevOtte en is bedoeld voor gebruik zoals deze is. Dit document informeert gebruikers over ons beleid met betrekking tot het verzamelen, gebruiken en openbaar maken van persoonlijke informatie indien iemand gebruikmaakt van onze App.
 
 ## 1. Verzameling en gebruik van gegevens
 
