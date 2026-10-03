@@ -1,4 +1,4 @@
-# Privacybeleid - Voetbal Carrière
+# Privacybeleid - Sandbagger
 
 **Laatst bijgewerkt:** 9 augustus 2026
 **Ontwikkelaar:** DevOtte
